@@ -1,0 +1,97 @@
+/*1em=100%=16px*/
+/*.klas */
+/*#id*/
+
+h1, h2 {
+    color: rgb(208, 204, 233);
+    /*font-family: "Courier New", monospaceace;*/
+    font-family: 'Amatic SC', cursive;
+    background-color:rgb(119, 58, 36)
+
+}
+h1{
+    text-align: center
+
+}
+h2{
+    text-align: right;
+}
+body{
+    background-color:burlywood;
+}
+
+.blakusattels {
+    float: left;
+
+}
+
+.blakusattels2 {
+    float: right;
+}
+
+p{
+    color:rgb(12, 53, 23);
+    font-size: 150%;
+    /*font-family: fantasy;*/
+    font-family: 'Tillana', cursive;
+    margin-left: 2.5cm;
+    margin-right: 2.5cm;
+}
+
+.fontgreatvibes {
+    font-family: 'Great Vibes', cursive;
+}
+
+.cipari{
+    font-size: 140%;
+
+}
+
+/* .slipr{            /*  class */
+   /* font-style: oblique;
+}     */
+
+#cipari{          /*  id */
+    color: rgb(73, 25, 25);
+}
+/*.kvadrats{
+    width: 100px; height: 100px;
+    background-color: brown;
+    border: solid 0px 20px;border-color: rgb(92, 18, 53);
+    padding: 20px 20px;
+ }  */
+
+.kvadrats{
+width: 200px;
+height:200px; 
+background-color: rgb(129, 111, 51);
+border: solid 10px rgb(103, 103, 161);
+padding: 25px 25px;
+}
+
+.tekstizkart {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, tr, td {
+    border: 1px solid; 
+    color: rgb(38, 66, 66);
+    border-collapse: collapse;
+    background-color: rgb(160, 143, 123);
+}
+
+.citie {
+    background-color: rgb(134, 104, 58);
+}
+
+ul {
+    list-style-type: square;
+    color: rgb(113, 131, 93);
+}
+
+.lacis{
+    float: right;
+    width: 400px;
+}
